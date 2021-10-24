@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Design tools
+Coding: HTML & CSS | Bootstrap
+# Languages
+B2 English | Native spanish
