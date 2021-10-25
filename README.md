@@ -1,17 +1,22 @@
 ### Hi there, I'm Evelyn 👋
 
 📍 Currently based at: Madrid, Spain
+
+
+
+🌱 I’m currently learning Java and Ionic
+
 ## Project area
 
 🔭 I’m currently working on a new fullstack app in Angular and ASP .NET Core.
 
-🌱 I’m currently learning Java and Ionic
+<p align='center'><i>Here some of my projects, I reserve the right to update.</i></p>
+  <div align='center'>
+  <a href="https://github.com/EMoralesF/PortalNoticias-app-hibrida-Ionic.git"><img align='center' src ='https://i.postimg.cc/vZC3xfCW/readme-vista.png'></a>  <img align='center' src ='https://i.postimg.cc/qB5dmMSz/composit.png'> 
+</div>
 
-<p align='center'><i>Here some of my past projects, I reserve the right to update.</i></p>
-  
-  <div align='center'><img align='center' src ='https://i.postimg.cc/FKk4XtSh/1-Tienda.png'>  <img align='center' src ='https://i.postimg.cc/qB5dmMSz/composit.png'> </div>
-  
-  
+<br>
+
 
 ## Development tools
 <p align='left'>
