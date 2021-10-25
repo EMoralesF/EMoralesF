@@ -2,20 +2,18 @@
 
 📍 Currently based at: Madrid, Spain
 
-
-
 🌱 I’m currently learning Java and Ionic
 
-## Project area
-
+## Projects area
 🔭 I’m currently working on a new fullstack app in Angular and ASP .NET Core.
 
-<p align='center'><i>Here some of my projects, I reserve the right to update.</i></p>
+<p align='center'><i>Here some of my projects, click to access, I reserve the right to update.</i></p>
   <div align='center'>
-  <a href="https://github.com/EMoralesF/PortalNoticias-app-hibrida-Ionic.git"><img align='center' src ='https://i.postimg.cc/vZC3xfCW/readme-vista.png'></a>  <img align='center' src ='https://i.postimg.cc/qB5dmMSz/composit.png'> 
+  <a href="https://github.com/EMoralesF/AdminSystForEcommerceApp-Angular-ExpressJS.git"><img align='center' src ='https://i.postimg.cc/vZC3xfCW/readme-vista.png'></a>  <a href="https://github.com/EMoralesF/PortalNoticias-app-hibrida-Ionic.git"><img align='center' src ='https://i.postimg.cc/qB5dmMSz/composit.png'></a>
 </div>
 
 <br>
+
 
 
 ## Development tools
