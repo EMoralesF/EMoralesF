@@ -14,31 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-## My personal projects
+## Project area
 
-🌱 I’m currently learning Angular, ASP .NET Core, here some of my projects...
-<div align='center'>
-  <h4>Cevantes Bookstore Admin System</h4>
-  
-  Angular SPA | Express REST API || Mysql
-  
-  <img align='center' src ='https://i.postimg.cc/FKk4XtSh/1-Tienda.png'>
-  <hr>
-  <h4>GlobalNews</h4>
-  
-  Ionic hybrid app || External services
-  
-  <img align='center' src ='https://i.postimg.cc/qB5dmMSz/composit.png'>
-  <hr>
-  <h4>EShop</h4>
-  
-  Angular SPA | ASP .NET API
-  
-  <p align='center'>In progress</p>
-</div>
+🔭 I’m currently working on a fullstack app in Angular and ASP .NET Core.
 
+🌱 I’m currently learning Java and Ionic
 
-
+<p align='center'><b>Here some of my past projects, I reserve the right to update.</b></p>
+  
+  <div align='center'><img align='center' src ='https://i.postimg.cc/FKk4XtSh/1-Tienda.png'>  <img align='center' src ='https://i.postimg.cc/qB5dmMSz/composit.png'> </div>
+  
+  
 
 ## Development tools
 <p align='left'>
@@ -53,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Design tools
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 
 ## Languages
 B2 English | Native spanish
